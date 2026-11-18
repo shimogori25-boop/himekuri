@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shimogori25-boop.github.io/himekuri/sitemap.xml
